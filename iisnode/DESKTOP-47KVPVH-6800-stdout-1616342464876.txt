@@ -1,0 +1,8 @@
+event - compiled successfully
+> Ready on http://localhost:\\.\pipe\c663940a-758a-4bf4-beea-56661e6617b2
+event - build page: /
+wait  - compiling...
+event - compiled successfully
+event - build page: /about
+wait  - compiling...
+event - compiled successfully

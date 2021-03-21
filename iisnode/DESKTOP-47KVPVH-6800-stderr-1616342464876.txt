@@ -1,0 +1,4 @@
+(node:6800) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at E:\test-iis\node_modules\postcss\package.json.
+Update this package.json to use a subpath pattern like "./*".
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:6800) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
